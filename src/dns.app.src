@@ -1,5 +1,5 @@
 % -*- mode: Erlang; -*-
-{application, dns_erlang,
+{application, dns,
  [
   {description, "DNS library"},
   {vsn, "0.1.0"},
